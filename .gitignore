@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+database/*.db
+database/*.db-wal
+database/*.db-shm
+.pytest_cache/
+!database/.gitkeep
